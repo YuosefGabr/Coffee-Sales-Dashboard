@@ -37,12 +37,6 @@ The dashboard includes filters for:
 * Coffee Size
 * Loyalty Card Status
 
-## 📂 Project Files
-
-* `coffee_sales_data.xlsx` — Original sales dataset.
-* `لقطة شاشة 2026-10-27 171302.png
-` — Dashboard screenshot.
-
 ## 🛠️ Tools
 
 * Microsoft Excel
@@ -64,15 +58,6 @@ The dashboard includes filters for:
 * Analyze average order value.
 * Compare sales by coffee type and roast type.
 * Expand the dashboard with additional business insights.
+* 
+Dev by Eng\[Yousef Jabr]
 
-## 👨‍💻 Project Team
-
-**Students:** Add team members' names here.
-
-**Course:** Add course name here.
-
-**Instructor:** Add instructor's name here.
-
----
-
-This project was created for educational purposes.
