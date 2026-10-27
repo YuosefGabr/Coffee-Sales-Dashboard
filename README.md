@@ -40,7 +40,8 @@ The dashboard includes filters for:
 ## 📂 Project Files
 
 * `coffee_sales_data.xlsx` — Original sales dataset.
-* `dashboard_screenshot.png` — Dashboard screenshot.
+* `لقطة شاشة 2026-10-27 171302.png
+` — Dashboard screenshot.
 
 ## 🛠️ Tools
 
